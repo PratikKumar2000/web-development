@@ -1,0 +1,56 @@
+*
+{
+    text-align: center;
+    border: firebrick;
+    border-width: 10cm;
+    text-decoration: none;
+}
+a
+{
+    background-color: rgb(235, 234, 241);
+}
+header
+{
+    background-color: paleturquoise;
+}
+input,textarea
+{
+    font-style: oblique;
+    flood-color: palevioletred; 
+}
+div.d
+{
+    position: relative;
+    color: royalblue;
+    width: 300px;
+    background-color: thistle;
+    border: 30px ;
+    border-color: rgb(197, 71, 255);
+    padding: 10px;
+    margin-left: 360px;
+    margin-top: 0px;
+    height: 10px;
+
+}
+div.i{
+    position: absolute;
+    opacity: 0.5;
+    top: 3cm;
+    left: 13cm;
+    right: 0px;
+    word-wrap: break-word;
+}
+div.i:hover
+{
+    opacity: 1.0;
+}
+div.p
+{
+    bottom: 0cm;
+    background-color: rgb(107, 84, 189);
+}
+div.e
+{
+    background-attachment: fixed;
+    background-color: rgb(204, 204, 204);
+}
